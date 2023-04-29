@@ -2,7 +2,7 @@
 
 The design of this list card is meant to be clean and modern, with a focus on simplicity and functionality. The use of a flat white background and shadow effects creates depth and contrast, drawing the user's eye to each individual card.
 
-The use of a contrasting orange color for the border and hover effects adds a pop of color that is eye-catching without being overwhelming. The use of subtle animations on hover, such as the pulse animation on the list item title, adds a touch of interactivity and fun to the design.
+The use of a contrasting orange color for the border and hover effects adds a pop of color that is eye-catching without being overwhelming. 
 
 This is the Screenshot of the Extension.
 
